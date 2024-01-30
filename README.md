@@ -126,20 +126,6 @@ It ensures the transparency in a trustless environment, enabling rapid action to
 
 Check in browser on http://localhost:3000/
 
-<a id=team></a>
-
-# 🥂 Team
-
-<table>
-  <tbody><tr>
-    <td align="center"><a href="https://github.com/OjusWiZard"><img src="https://avatars.githubusercontent.com/OjusWiZard" width="100px;"><br><sub><b>Ojuswi Rastogi</b></sub></a><br><a href="https://github.com/Shruti3004/Funding-Blocks/commits?author=OjusWiZard" title="Contributions">💻 🖋</a></td> </a></td>
-    <td align="center"><a href="https://github.com/Shruti3004"><img src="https://avatars.githubusercontent.com/Shruti3004" width="100px;"><br><sub><b>Shruti Agarwal</b></sub></a><br><a href="https://github.com/Shruti3004/Funding-Blocks/commits?author=Shruti3004" title="Contributions">💻 🖋</a></td> </a></td>
-    <td align="center"><a href="https://github.com/shivamsingh-07"><img src="https://avatars.githubusercontent.com/shivamsingh-07" width="100px;"><br><sub><b>Shivam Singh</b></sub></a><br><a href="https://github.com/Shruti3004/Funding-Blocks/commits?author=shivamsingh-07" title="Contributions">💻 🖋</a></td> </a></td>
-    <td align="center"><a href="https://github.com/SingingApple"><img src="https://avatars.githubusercontent.com/SingingApple" width="100px;"><br><sub><b>Anurag Srivastava</b></sub></a><br><a href="https://github.com/Shruti3004/Funding-Blocks/commits?author=SingingApple" title="Contributions">💻 🖋</a></td> </a></td>
-  </tbody></tr>
-</table>
-
-<a id=license></a>
 
 # 📝 License
 
